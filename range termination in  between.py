@@ -1,5 +1,5 @@
 Headphone_location = "Drawer"
-#input("Enter teh location")
+input("Enter teh location")
 Locations=["bed","hall","chair","Drawer","kitchen"]
 for i in Locations:
         if i==Headphone_location:
